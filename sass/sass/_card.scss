@@ -1,0 +1,39 @@
+.col__card {
+    padding: 0;
+}
+
+
+.card {
+    border-radius: 0;
+    padding: 11px;
+    background-color: none;
+}
+
+.card__img {
+    width: 100%;
+}
+
+.card__accomodationtype {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.card__people {
+    text-align: center;
+}
+
+.card__nights {
+    text-align: center;
+}
+.card__price {
+    text-align: center;
+    margin-top: 6px;
+}
+.btn-lg {
+    text-align: center;
+}
+#totalProducts {
+    color: white;
+    background-color: black;
+    text-align: center;
+}

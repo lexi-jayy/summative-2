@@ -1,0 +1,83 @@
+#modal {
+    background-color: white;
+    text-align: center;
+    margin: 0 auto;
+    max-height: 750px;
+    max-width: 750px;
+}
+
+.close {
+    font-size: 30px;
+}
+
+iframe {
+    max-width: 750px;
+}
+
+#hostelModal {
+    background-color: white;
+    text-align: center;
+    height: 1000px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.modal__header {
+    padding: 2px;
+    height: 20%;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.modal-calc {
+    display: inline;
+}
+
+form {
+    text-align: center;
+}
+
+#accBtn {
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+
+.container__filters {
+    display: none;
+    margin: 0 auto;
+    background-color: white;
+    height: 50%;
+    width: 45%;
+    max-width: 450px;
+    position: fixed;
+    right: 0;
+	z-index: 100;
+	right: 0;
+	top: 0;
+}
+.modal-select {
+    width: 75%;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.accomodation {
+    text-align: center;
+    margin-top: 20px;
+}
+.nights {
+    text-align: center;
+}
+.people {
+    text-align: center;
+}
+.meals {
+    text-align: center;
+}
+
+#totalPrice
+{
+    font-weight:bold;
+}
